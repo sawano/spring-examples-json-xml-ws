@@ -1,0 +1,9 @@
+To run the integration tests included in this example with Maven use:
+
+mvn verify
+
+To deploy the web service on a jetty use:
+
+mvn jetty:run
+
+The web service is now available on http://localhost:9090
