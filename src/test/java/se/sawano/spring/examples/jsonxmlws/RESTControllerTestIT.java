@@ -41,7 +41,7 @@ public class RESTControllerTestIT {
 
 	@Before
 	public void setUp() throws Exception {
-		baseUrl = "http://localhost:9090/json-xml-ws/users";
+		baseUrl = "http://localhost:9090/spring-examples-json-xml-ws/users";
 	}
 
 	@Test
