@@ -21,7 +21,7 @@
 		<dependency>
 			<groupId>org.codehaus.jackson</groupId>
 			<artifactId>jackson-mapper-asl</artifactId>
-			<version>1.4.2</version>
+			<version>1.9.5</version>
 			<type>jar</type>
 			<scope>compile</scope>
 		</dependency>
